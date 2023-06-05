@@ -1,0 +1,20 @@
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+K:\2 INFO\Informática\Lógica de Programação\Menu Projeto\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+K:\2 INFO\Informática\Lógica de Programação\Cinema da Najú\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
